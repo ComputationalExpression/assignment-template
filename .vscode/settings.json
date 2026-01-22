@@ -7,7 +7,8 @@
   "chat.disableAIFeatures": true,
   "chat.commandCenter.enabled": false,
   "files.exclude": {
-    "**/.*": true
+    "**/.*": true,
+    "gatorgrade.yml": true
   },
   "[markdown]": {
     "editor.wordWrap": "bounded",
